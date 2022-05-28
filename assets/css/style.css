@@ -1,0 +1,25 @@
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    border: 1px solid black;
+}
+
+h1{
+    color: black;
+}
+
+header{
+    width: 100%;
+    border: 15px solid green;
+    text-align: center;
+    font-size: 180%;
+}
+
+nav{
+    width: 100%;
+    border: 2px solid yellow;
+    font-size: 170%;
+}
